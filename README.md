@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm makmoul soufiane</h1>
-<h3 align="center">Junior Web Developer proficient in Ruby on Rails and Javascript.</h3>
+<h3 align="center">Junior Web Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
